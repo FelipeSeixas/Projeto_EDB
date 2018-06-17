@@ -1,0 +1,4 @@
+TO DO:
+Corrigir entradas com numeros de mais de um algarismos 
+Verificar no documento do projeto os códigos de erros
+Verificar as demais exigencias do projeto
