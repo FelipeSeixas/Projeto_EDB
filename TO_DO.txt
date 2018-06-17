@@ -1,5 +1,5 @@
 TO DO:
-Corrigir entradas com numeros de mais de um algarismos 
+Corrigir entradas com numeros de mais de um algarismos e com pontos flutantes
 Implementar a verificação da quantidade dos paranteses (se a quantidade de parenteses "(" é igual a ")")
 Verificar no documento do projeto os códigos de erros
 Verificar as demais exigencias do projeto
