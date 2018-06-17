@@ -15,6 +15,7 @@
 		int eh_operador(char unity_entrada);
 		int eh_numero(char unity_entrada);
 		string getEntradaStr();
+		void setEntradaStr(string entrada_str);
 		void ler_entrada();
 		void imprime_deque();
  

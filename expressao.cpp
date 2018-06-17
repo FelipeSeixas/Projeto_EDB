@@ -64,3 +64,6 @@ void Expressao::imprime_deque(){
 string Expressao::getEntradaStr(){
 		return entrada_str;
 }
+void Expressao::setEntradaStr(string entrada_str){
+	this->entrada_str=entrada_str;
+}
