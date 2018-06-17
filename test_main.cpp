@@ -1,15 +1,15 @@
 #include<iostream>
 #include"deque.h"
+#include"expressao.h"
 
 using namespace std;
 
 int main(){
-	Deque deque;
-	deque.push_front(10);
-	deque.push_front(9);
-	deque.push_back(11);
-	
-	while(!deque.empty()){
-		deque.pop_front();
+	Expressao *expressao = new Expressao[100];
+	int i=0;
+
+	for(int i =0; expressao[i].getEntradaStr()!="fim"; i++){
+		expressao[i].ler_entrada();
+		expressao[i].imprime_deque();
 	}
 }

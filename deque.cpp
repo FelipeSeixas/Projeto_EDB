@@ -1,9 +1,9 @@
 #include"deque.h"
 
-void Deque::push_back(float x){
+void Deque::push_back(char x){
 	elementos.push_back(x);
 }
-void Deque::push_front(float x){
+void Deque::push_front(char x){
 	elementos.push_front(x);
 }
 void Deque::pop_back(){

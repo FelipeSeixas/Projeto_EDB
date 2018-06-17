@@ -9,10 +9,10 @@ using namespace std;
 class Deque {
 	private:
 		int size;
-		list<float> elementos;
+		list<char> elementos;
 	public:
-		void push_back(float x);
-		void push_front(float x);
+		void push_back(char x);
+		void push_front(char x);
 		void pop_back();
 		void pop_front();
 		int empty();
