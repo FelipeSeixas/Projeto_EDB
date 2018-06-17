@@ -5,3 +5,4 @@ Adicionar erro para operadores conforme exemplo. Exemplo (5+4*)
 Implementar a verificação da quantidade dos paranteses (se a quantidade de parenteses "(" é igual a ")")
 Verificar no documento do projeto os códigos de erros
 Verificar as demais exigencias do projeto
+Implementar lista duplamente encadeada
