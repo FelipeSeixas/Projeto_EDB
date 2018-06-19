@@ -1,4 +1,4 @@
-TO DO:
+﻿TO DO:
 Corrigir entradas com numeros de mais de um algarismos e com pontos flutantes
 Adicionar operador ^ e operadores unitários
 Adicionar erro para operadores conforme exemplo. Exemplo (5+4*)
@@ -6,3 +6,35 @@ Implementar a verificação da quantidade dos paranteses (se a quantidade de par
 Verificar no documento do projeto os códigos de erros
 Verificar as demais exigencias do projeto
 Implementar lista duplamente encadeada
+
+============================Exigências do projeto ===================================
+CONCLUÍDOS:
+PENDENTES: 1-2-3-4-5-6-7-8-9 (extra).
+=====================================================================================
+
+1) (1,0) Validação de expressão: 
+Recebimento das expressões em arquivo e, em caso de serem válidas, apresentar seu resultado. Caso sejam inválidas, a mensagem de erro correspondente deverá ser apresentada. 
+
+2) (1,0) Separação da expressão em componentes: 
+Extração adequada dos componentes das expressões infixas passadas e criação da fila de entrada. 
+  
+3) (2,0) Conversão de expressão de infixa para pós-fixa: 
+Criação de nova fila, dessa vez contendo a representação da expressão em notação pós-fixa. 
+  
+4) (1,5) Cálculo do resultado: 
+Apresentação do resultado referente à expressão passada. 
+
+5) (1,5) Implementação adequada da estrutura sorteada: 
+Implementar todos os métodos referentes à estrutura que foi sorteada (inserção, remoção, visualização de extremidades, verificação de vacuidade e limpeza). Todos deveram ser implementados, mesmo que não utilizados durante o projeto. 
+
+6) (1,0) Organização do código: 
+Códigos devidamente indentados e comentados. Nomes de métodos e atributos legíveis e facilmente identificáveis. Criação de métodos com funções bem definidas. 
+
+7) (1,0) Solução estruturada:
+Demonstração de domínio sobre a linguagem, blocos e demais estruturas utilizadas. Solução claramente dividida de forma lógica. 
+  
+8) (1,0) Efetividade do projeto Entrega de todos os tópicos solicitados no projeto, além de seguir adequadamente todas as convenções debatidas durante as aulas para desenvolvimento de código (uso de notação específica, separação de códigos-fonte por finalidade, etc.). 
+
+9) (+1,0) Tratamento de operadores unários Ponto extra dado ao tratamento adequado de operadores unários. 
+  
+======================================================================================
